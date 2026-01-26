@@ -38,7 +38,7 @@
 
 ---
 
-## 🧩 About Me (React UI Card)
+## 🧩 About Me 
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 
 ---
 
-## 🎓 Education (Clean UI Blocks)
+## 🎓 Education 
 
 <div align="center">
 
@@ -122,7 +122,7 @@
 
 ---
 
-## 💼 Internship (Modern UI Card + Animation)
+## 💼 Internship 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656982-0fd0d61a-6c0c-4e74-97c7-8fdbb3efc6d4.gif" width="160" />
@@ -155,7 +155,7 @@
 
 ---
 
-## 🚀 Projects (React UI Cards ✅ 100% Working)
+## 🚀 Projects 
 
 <div align="center">
 
@@ -197,7 +197,7 @@ Real-time object detection using YOLO and deep learning.
 
 ---
 
-## 📜 Certificates (Clean UI List)
+## 📜 Certificates
 ✅ C++ And Java Training Crash Course for Beginners  
 ✅ Python for Beginners (Basics)  
 ✅ Deep Learning-Powered Object Detection with YOLOv3  
@@ -216,7 +216,7 @@ Real-time object detection using YOLO and deep learning.
 
 ---
 
-## 📊 GitHub Stats (Modern + Attractive)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nithinnaidun&show_icons=true&theme=tokyonight" />
