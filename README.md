@@ -5,7 +5,7 @@
 
 <!-- 🌊 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=190&section=header&text=Nithin%20Naidu%20N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=190&section=header&text=NITHIN%20NAIDU%20N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34" />
 </p>
 
 <!-- 👋 Subtitle -->
