@@ -62,7 +62,7 @@
 
 ---
 
-## 🛠️ Skills & Tech Stack (Badges + Modern UI)
+## 🛠️ Skills & Tech Stack 
 
 ### ✅ Frontend
 <p align="left">
