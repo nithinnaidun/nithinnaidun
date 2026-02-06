@@ -48,8 +48,8 @@
 <td width="100%" style="border-radius:16px; padding:14px;">
 
 ### 👨‍💻 Nithin Naidu N  
-✅ Motivated **MCA graduate** with strong fundamentals in **programming, databases, and software development**.  
-🎯 Seeking an **Associate Software Engineer** role to build modern applications, learn continuously, and contribute to company growth.
+Associate  Software Engineer | Angular | ASP.NET Core Web API | SQL Server
+Hands-on experience in enterprise application development, reactive forms, AG Grid reporting, T-SQL optimization, and responsive UI design. Actively seeking opportunities to grow and contribute to high-quality software teams.
 
 📍 **Bengaluru, India**  
 💼 **Role:** Associate Software Engineer  
